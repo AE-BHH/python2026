@@ -7,8 +7,3 @@ full_name = first_name + " " + last_name
 
 # Say hello to the user
 print("Hello, " + full_name + "!")
-
-
-x = int(input("What's x?"))
-y = int(input("What's y?"))
-print(x + y)
