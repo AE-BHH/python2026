@@ -1,7 +1,4 @@
-try:
-    from . import cowsay
-except ImportError:
-    import cowsay
+import cowsay
 import sys
 
 if len(sys.argv) == 2:
